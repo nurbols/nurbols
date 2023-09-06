@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurbols&label=Profile%20views&color=0e75b6&style=flat" alt="nurbols" /> </p>
 
-- 🔭 I’m currently working on **Techno Blog**
+- 🔭 I’m currently working on **Techno Blog project**
 
 - 🌱 I’m currently learning **Docker, Seaborn**
 
-- 💬 Ask me about **python, django, SQL**
+- 💬 Ask me about **python, backend development, data science, data engineer**
 
 - 📫 How to reach me **satibaldievn25@gmail.com**
 
